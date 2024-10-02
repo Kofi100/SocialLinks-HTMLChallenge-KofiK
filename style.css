@@ -19,7 +19,7 @@ body{
     color: var(--White);
     font-weight: var(--FWeight400);
     background-color: var(--Grey900);
-    padding: 15%;
+    /* padding: 15%; */
     display: grid;
     justify-items: center;
     font-family: Inter;
