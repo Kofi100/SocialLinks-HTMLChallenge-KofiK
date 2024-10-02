@@ -1,0 +1,95 @@
+@font-face {
+    font-family: Inter;
+    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+:root{
+    --Green: hsl(75, 94%, 57%);
+
+    --White: hsl(0, 0%, 100%);
+
+    --Grey700: hsl(0, 0%, 20%);
+    --Grey800: hsl(0, 0%, 12%);
+    --Grey900: hsl(0, 0%, 8%);
+    --FWeight400:400;
+    --FWeight600:600;
+    --FWeight700:700;
+}
+
+body{
+    color: var(--White);
+    font-weight: var(--FWeight400);
+    background-color: var(--Grey900);
+    padding: 15%;
+    display: grid;
+    justify-items: center;
+    font-family: Inter;
+}
+
+.mainContent{
+    background-color: var(--Grey800);
+    width: max-content;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainContent__h1--FWeight600{
+    /* margin-bottom: 0rem; */
+    font-weight: var(--FWeight600);
+}
+
+.mainContent__h2{
+    margin-top: 0rem;
+    color: var(--Green);
+    font-weight: var(--FWeight700);
+    /* margin-bottom: 0rem; */
+}
+
+
+
+.profileImage--Circle{
+    clip-path: circle();
+}
+
+.linksContainer{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+}
+
+.linksContainer__links{
+    
+    background-color: var(--Grey700);
+    width: 100%;
+    
+    margin: auto auto 1rem auto;
+    border-radius: .5rem;
+}
+.linksContainer__links a{
+    display: block;
+    text-decoration: none;
+    color: var(--White);
+    padding-top: 1rem;padding-bottom: 1rem;
+
+}
+.linksContainer__links a:hover{
+    background-color: var(--Green);
+    color: var(--Grey900);
+    border-radius: inherit;
+
+}
+
+
+@media (max-width:31.25rem) {
+    body{
+         /* padding: 2.5%; */
+         padding: 2rem;
+    }
+    .mainContent{
+        width: 100%;
+    }
+   
+    
+}
