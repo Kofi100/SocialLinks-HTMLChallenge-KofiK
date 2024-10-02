@@ -42,7 +42,7 @@ This is one of the link's hover state when you place the mouse pointer on top of
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kofi100.github.io/SocialLinks-HTMLChallenge-KofiK/](https://kofi100.github.io/SocialLinks-HTMLChallenge-KofiK/)
 
 ## My process
 
@@ -55,8 +55,6 @@ This is one of the link's hover state when you place the mouse pointer on top of
 
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 For this challenge,I revised on how to systematically program the webpage to life and also used my knowledge on Flexbox and Grid in order to reposition the main content of the webpage. It was tricky ngl.
 
