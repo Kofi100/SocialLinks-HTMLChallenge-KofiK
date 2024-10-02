@@ -41,7 +41,7 @@ This is one of the link's hover state when you place the mouse pointer on top of
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-website-using-htmlcss-kIOkKsxt1H](https://www.frontendmentor.io/solutions/social-links-website-using-htmlcss-kIOkKsxt1H)
 - Live Site URL: [https://kofi100.github.io/SocialLinks-HTMLChallenge-KofiK/](https://kofi100.github.io/SocialLinks-HTMLChallenge-KofiK/)
 
 ## My process
