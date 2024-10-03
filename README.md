@@ -2,6 +2,9 @@
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+*Note:Some changes were made after this Readme.md got added,
+so some of the codes in this Readme.md might not the same in the repository/repo.
+
 ## Table of contents
 
 - [Overview](#overview)
